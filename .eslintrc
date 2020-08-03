@@ -79,8 +79,8 @@
       "^(err|error|anySpecificError)$"
     ],
     "indent": [
-      2,
-      2,
+      4,
+      4,
       {
         "SwitchCase": 1
       }
